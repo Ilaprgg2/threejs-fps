@@ -1,12 +1,12 @@
 # Sector 07 Arena
 
-A browser FPS built with three.js: wave-based rusher drones, a pulse rifle, Low/Medium/High graphics presets and synthesized 3D audio.
+A browser FPS built with three.js: wave-based rusher drones, a pulse rifle and a pump shotgun, aim-down-sights zoom, Low/Medium/High graphics presets and synthesized 3D audio.
 
 Play: open `index.html` in a browser, or host it with GitHub Pages.
 
 ## Controls
-- Desktop: WASD move, mouse look and fire, Space jump, Shift sprint, R reload, Esc menu
-- Touch: left thumb moves, right thumb looks, on-screen Fire and Jump buttons
+- Desktop: WASD move, mouse look, left click fire, right click aim, Q or 1/2 switch weapon, Space jump, Shift sprint, R reload, Esc menu
+- Touch: left thumb moves, right thumb looks; hold Fire and drag it to aim while shooting; buttons for Aim, Reload, Switch and Jump
 
 ## Publish on GitHub Pages
 1. Create a public repository and upload `index.html` and this README.
